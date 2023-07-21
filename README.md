@@ -1,6 +1,6 @@
 # ethermail
 ##### website https://ethermail.io/
-##### 融资700万的@ethermail_ioWEB3邮箱项目 ，现在注册就可以领取250个 $EMC 代币
+##### Web 3.0 Email Solution setting the standard for anonymous and encrypted wallet-to-wallet communication.
 # Environment Setup
 ##### You need to install the following environment on your ubuntu
 ```shell 
@@ -27,4 +27,4 @@ python3 ubuntu.py
 * ubuntu version need > 18.10LTS
 * you need set the vnc passwd in the wizard interface
 * you need update ethermail.db，For example my table structure
-* you need change inviteurl to youself in line_94
+* you need change invite link to youself in line_94
