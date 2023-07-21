@@ -38,3 +38,7 @@ python3 ubuntu.py
 * you need set the vnc passwd in the wizard interface
 * you need update ethermail.db，For example my table structure
 * you need change invite link to youself in line_94
+
+
+
+update 2023-07-22
