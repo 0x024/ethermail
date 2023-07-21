@@ -1,4 +1,8 @@
-# ethermail
+# ethermail  
+
+
+Claim your free Web3 Email & get 250 EMC upon sign up!
+
 website https://ethermail.io/
 
 Web 3.0 Email Solution setting the standard for anonymous and encrypted wallet-to-wallet communication.
