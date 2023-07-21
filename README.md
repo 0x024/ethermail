@@ -20,3 +20,11 @@ chmod 777 -R /home/vnc/ethermail/*
 chmod 777 -R /home/vnc/ethermail/
 ```
 # How does it work?
+```angular2html
+python3 ubuntu.py
+```
+# what needs attention？
+* ubuntu version need > 18.10LTS
+* you need set the vnc passwd in the wizard interface
+* you need update ethermail.db，For example my table structure
+* you need change inviteurl to youself in line_94
