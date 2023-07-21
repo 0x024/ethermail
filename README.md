@@ -1,8 +1,8 @@
 # ethermail
-### website https://ethermail.io/
-## 融资700万的@ethermail_ioWEB3邮箱项目 ，现在注册就可以领取250个 $EMC 代币
+##### website https://ethermail.io/
+##### 融资700万的@ethermail_ioWEB3邮箱项目 ，现在注册就可以领取250个 $EMC 代币
 # Environment Setup
-#### You need to install the following environment on your ubuntu
+##### You need to install the following environment on your ubuntu
 ```shell 
 pip3 install requests
 pip3 install selenium
